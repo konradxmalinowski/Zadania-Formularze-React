@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+label,
+span {
+  display: block;
+  margin: 10px 0;
+}
+
+input {
+  margin: 0 5px;
+}
